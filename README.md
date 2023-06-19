@@ -1,6 +1,6 @@
 # A03
-#Directions for Using WebStorm and Git:
-
+##H2 Directions for Using WebStorm and Git:
+Alt-H2
 1. Visit https://git-scm.com/downloads and download Git, then install it on your computer.
 2. Visit https://www.jetbrains.com/community/education/#students and create a JetBrains account using your student credentials.
 3. After verification, download WebStorm from the JetBrains website and install it on your computer.
@@ -15,7 +15,8 @@
 12. Go back to WebStorm and make additional changes to your project code as desired.
 13. Commit and push the changes you made in WebStorm to GitHub by selecting "VCS" in the top menu, choosing "Git," and then clicking on "Push." This uploads your local changes to the remote repository on GitHub.
 
-#Directions for Using GitHub:
+##H2 Directions for Using GitHub:
+Alt-H2
 
 1. To start, log in to your GitHub account at https://github.com/.
 2. Create a new repository on GitHub by clicking on the "+" icon in the top-right corner of the page and selecting "New Repository."
@@ -30,17 +31,29 @@
 11. After review, if your changes are approved, they can be merged into the original codebase. The repository maintainer can review the changes and click on the "Merge pull request" button.
 12. Finally, delete the branch that you just merged into the main branch by going to the "Branches" tab, selecting the branch, and clicking on "Delete branch."
 
-#Glossary Definitions:
+##H2 Glossary Definitions:
+Alt-H2
 
-Branch: A separate copy of the codebase that allows developers to work on different features or changes simultaneously without affecting the main codebase.
-Clone: To create a local copy of a repository on your machine so that you can work on it locally.
-Commit: A snapshot of changes made to the codebase that is saved in the repository's history. Each commit includes a message describing the changes made.
-Fetch: Retrieves changes from a remote repository and updates the local repository's references, but does not merge them with the local branch.
-Git: A version control system that allows multiple developers to work on the same codebase and keep track of changes over time.
-GitHub: A web-based hosting service for Git repositories that provides a platform for collaboration and code sharing.
-Merge: Combines two or more branches or commits into a single branch.
-Merge Conflict: When Git encounters conflicting changes between two branches or commits being merged, it presents a merge conflict that requires manual resolution.
-Push: Uploads local changes to a remote repository.
-Pull: Retrieves changes from a remote repository and merges them with the local branch.
-Remote: A reference to a repository on a remote server that is used to synchronize changes between the local and remote repositories.
-Repository: A central location where code is stored and managed. It includes the complete history of all changes made to the codebase.
+**Branch**: A separate copy of the codebase that allows developers to work on different features or changes simultaneously without affecting the main codebase.
+
+**Clone**: To create a local copy of a repository on your machine so that you can work on it locally.
+
+**Commit**: A snapshot of changes made to the codebase that is saved in the repository's history. Each commit includes a message describing the changes made.
+
+**Fetch**: Retrieves changes from a remote repository and updates the local repository's references, but does not merge them with the local branch.
+
+**Git**: A version control system that allows multiple developers to work on the same codebase and keep track of changes over time.
+
+**GitHub**: A web-based hosting service for Git repositories that provides a platform for collaboration and code sharing.
+
+**Merge**: Combines two or more branches or commits into a single branch.
+
+**Merge Conflict**: When Git encounters conflicting changes between two branches or commits being merged, it presents a merge conflict that requires manual resolution.
+
+**Push**: Uploads local changes to a remote repository.
+
+**Pull**: Retrieves changes from a remote repository and merges them with the local branch.
+
+**Remote**: A reference to a repository on a remote server that is used to synchronize changes between the local and remote repositories.
+
+**Repository**: A central location where code is stored and managed. It includes the complete history of all changes made to the codebase.
