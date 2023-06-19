@@ -31,7 +31,6 @@ Directions for Using GitHub:
 12. Finally, delete the branch that you just merged into the main branch by going to the "Branches" tab, selecting the branch, and clicking on "Delete branch."
 
 Glossary Definitions:
-Alt-H2
 
 **Branch**: A separate copy of the codebase that allows developers to work on different features or changes simultaneously without affecting the main codebase.
 
