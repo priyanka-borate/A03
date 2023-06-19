@@ -1,6 +1,6 @@
 # A03
-##H2 Directions for Using WebStorm and Git:
-Alt-H2
+Directions for Using WebStorm and Git:
+
 1. Visit https://git-scm.com/downloads and download Git, then install it on your computer.
 2. Visit https://www.jetbrains.com/community/education/#students and create a JetBrains account using your student credentials.
 3. After verification, download WebStorm from the JetBrains website and install it on your computer.
@@ -15,8 +15,7 @@ Alt-H2
 12. Go back to WebStorm and make additional changes to your project code as desired.
 13. Commit and push the changes you made in WebStorm to GitHub by selecting "VCS" in the top menu, choosing "Git," and then clicking on "Push." This uploads your local changes to the remote repository on GitHub.
 
-##H2 Directions for Using GitHub:
-Alt-H2
+Directions for Using GitHub:
 
 1. To start, log in to your GitHub account at https://github.com/.
 2. Create a new repository on GitHub by clicking on the "+" icon in the top-right corner of the page and selecting "New Repository."
@@ -31,7 +30,7 @@ Alt-H2
 11. After review, if your changes are approved, they can be merged into the original codebase. The repository maintainer can review the changes and click on the "Merge pull request" button.
 12. Finally, delete the branch that you just merged into the main branch by going to the "Branches" tab, selecting the branch, and clicking on "Delete branch."
 
-##H2 Glossary Definitions:
+Glossary Definitions:
 Alt-H2
 
 **Branch**: A separate copy of the codebase that allows developers to work on different features or changes simultaneously without affecting the main codebase.
